@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+    /*Dark Themes*/
+    --color-darktheme-1: #4b585b;
+    --color-darktheme-2: #394447;
+    --color-darktheme-3: #22292b;
+    --color-darktheme-4: #161b1d;
+
+    --color-darkhover-1: #435457;
+
+    /*Light Themes*/
+    --color-lighttheme-1: #f1f5f9;
+    --color-lighttheme-2: #e2e8f0;
+
+    --color-lighthover-1: #cad5e2;
+
+    /*App Themes*/
+    --color-app-1: #00bba7;
+    --color-app-2: #009689;
+    --color-app-3: #00786f;
+    --color-app-4: #005f5a;
+
+    --color-apphover-1: #00d5be;
+
+    --font-default: "serif"
+}
